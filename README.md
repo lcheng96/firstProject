@@ -1,4 +1,4 @@
 firstProject
 ============
 
-Now with Read-Me!
+Hopefully This will be the first Rails website project
